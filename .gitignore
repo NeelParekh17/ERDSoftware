@@ -1,0 +1,35 @@
+doctr-env/
+myenv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+*.log
+
+# Local environments and dependencies
+doctr-env/
+myenv/
+node_modules/
+
+# Generated training and prediction artifacts
+runs/
+runs_initial/
+runs_initial1/
+runs_initial2/
+*.cache
+events.out.tfevents.*
+
+# Local/debug outputs
+debug_log.txt
+extracted_words.txt
+predicted_output.txt
+bounding_box/ocr_results.txt
+bounding_box/predicted_output.txt
+
+# Environment files may contain local credentials or secrets
+**/.env
+**/.env.*
+!**/.env.example

@@ -1,0 +1,17 @@
+# data.yaml
+
+train: C:/Users/NEEL PAREKH/OneDrive/Desktop/testpreprocessing/final_dataset/train.txt
+val: C:/Users/NEEL PAREKH/OneDrive/Desktop/testpreprocessing/final_dataset/train.txt
+nc: 11  # Number of classes
+names: 
+- relationship
+- weak entity
+- primary-key
+- Entity
+- total
+- line
+- derived attribute
+- attribute
+- weak relationship
+- multivalued attribute
+- partial key
