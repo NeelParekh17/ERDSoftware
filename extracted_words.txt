@@ -1,0 +1,40 @@
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'price', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'dyname.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'endulate.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'snitten.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'quantity', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'name.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'name.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'address', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'address.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'iname', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'speciality', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'start date.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'shift start.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'contact no', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'sex.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'fax.', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'name', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'date', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': 'address', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': 'drug-manufacturer.', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '" During', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': 'employee. "', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': 'patient.', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': 'ppnarmacy.', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '" Doctor', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'name', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'employee!', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'company 1', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'pharid', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'pid', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': 'phys.id', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'somby.', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'work.', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'prescribe', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'make', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'soil.', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': 'contract', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': ''}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': '', 'Unknown': '1 1'}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': '', 'Unknown': 'is'}
+{'Entity': '', 'Relationship': '', 'Weak Entity': '', 'Primary Key': '', 'Derived Attribute': '', 'Attribute': '', 'Weak Relationship': '', 'Multivalued Attribute': '', 'Partial Key': '', 'Unknown': '0 1/'}
